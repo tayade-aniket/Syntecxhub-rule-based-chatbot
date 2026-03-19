@@ -103,25 +103,25 @@ Run the chatbot using:
 ---
 
 # 💬 Example Interaction
+```bash
+    === Rule-Based Chatbot ===
+    Type 'exit' to quit
 
-=== Rule-Based Chatbot ===
-Type 'exit' to quit
+    You: hi
+    Bot: Hello! How can I help you today?
 
-You: hi
-Bot: Hello! How can I help you today?
+    You: what is ai
+    Bot: Artificial Intelligence is the simulation of human intelligence in machines.
 
-You: what is ai
-Bot: Artificial Intelligence is the simulation of human intelligence in machines.
+    You: how are you
+    Bot: I'm just a bot, but I'm doing great! How about you?
 
-You: how are you
-Bot: I'm just a bot, but I'm doing great! How about you?
+    You: help
+    Bot: I can answer basic AI questions or chat with you.
 
-You: help
-Bot: I can answer basic AI questions or chat with you.
-
-You: bye
-Bot: Goodbye! Have a nice day.
-
+    You: bye
+    Bot: Goodbye! Have a nice day.
+```
 ---
 
 # 📝 Conversation Logging
