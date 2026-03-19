@@ -54,14 +54,15 @@ The chatbot includes a small built-in knowledge base to answer questions like:
 ---
 
 # 🗂 Project Structure
-rule_based_chatbot/
-│
-├── main.py # Entry point (runs chatbot)
-├── chatbot.py # Chatbot logic and intent handling
-├── knowledge_base.py # Domain knowledge (Q&A)
-├── logger.py # Conversation logging
-└── README.md
-
+```bash
+    rule_based_chatbot/
+    │
+    ├── main.py # Entry point (runs chatbot)
+    ├── chatbot.py # Chatbot logic and intent handling
+    ├── knowledge_base.py # Domain knowledge (Q&A)
+    ├── logger.py # Conversation logging
+    └── README.md
+```
 ---
 
 # ⚙️ How It Works
