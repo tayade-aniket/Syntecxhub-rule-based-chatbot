@@ -1,0 +1,21 @@
+User: Hi
+Bot: Hello! How can I help you today?
+----------------------------------------
+User: How are you?
+Bot: I'm just a bot, but I'm doing great! How about you?
+----------------------------------------
+User: I'm Fine!
+Bot: Sorry, I don't understand that yet.
+----------------------------------------
+User: I'm good
+Bot: Sorry, I don't understand that yet.
+----------------------------------------
+User: What is AI?
+Bot: Sorry, I don't understand that yet.
+----------------------------------------
+User: Bye
+Bot: Goodbye! Have a nice day.
+----------------------------------------
+User: what is ai
+Bot: Artificial Intelligence is the simulation of human intelligence in machines.
+----------------------------------------
